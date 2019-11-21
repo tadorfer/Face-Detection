@@ -25,7 +25,7 @@ $ pip install opencv-Python
 **Make sure you have a working webcam!**
 
 ```
-$ python face_detection.python
+$ python face_detection.py
 ```
 
 In order to exit, press "q".
