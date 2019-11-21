@@ -16,7 +16,7 @@ $ git clone https://github.com/tadorfer/face-detection.git
 
 ```
 $ pip install --upgrade pip
-$ pip install opencv-Python
+$ pip install opencv-python
 ```
 
 
