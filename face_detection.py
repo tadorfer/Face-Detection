@@ -23,8 +23,7 @@ def facedetection():
                 scaleFactor=1.2,
                 minNeighbors=5,
                 minSize=(30, 30),
-                flags=cv2.CASCADE_SCALE_IMAGE
-            )
+                flags=cv2.CASCADE_SCALE_IMAGE)
 
             # Draw rectangle around faces
             for (x, y, w, h) in faces:
