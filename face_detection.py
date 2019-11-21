@@ -5,7 +5,7 @@ def facedetection():
     # loading classifier for frontal face
     faceCascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
-    # return video from default web cam
+    # return video from default webcam
     cap = cv2.VideoCapture(0)
 
     while True:
