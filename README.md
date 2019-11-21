@@ -2,7 +2,7 @@
 
 This is a script for real-time face detection with a default webcam using the pre-trained Haar frontal face cascade algorithm.
 
-Python Version 3.7.3
+The script is compatible with both Python 2 and Python 3 versions.
 
 
 ## Clone repository
