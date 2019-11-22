@@ -19,7 +19,7 @@ $ conda install -c conda-forge opencv
 ```
 
 
-## Run Face Detection
+## Execute
 
 **Make sure you have a working webcam!**
 
