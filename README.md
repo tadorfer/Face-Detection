@@ -15,8 +15,7 @@ $ git clone https://github.com/tadorfer/face-detection.git
 ## Install required package
 
 ```
-$ pip install --upgrade pip
-$ pip install opencv-python
+$ conda install -c conda-forge opencv
 ```
 
 
