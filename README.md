@@ -12,7 +12,7 @@ $ git clone https://github.com/tadorfer/face-detection.git
 ```
 
 
-## Install required package
+## Installation
 
 ```
 $ pip install --upgrade pip
@@ -20,7 +20,7 @@ $ pip install opencv-python
 ```
 
 
-## Run Face Detection
+## Execution
 
 **Make sure you have a working webcam!**
 
