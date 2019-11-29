@@ -28,7 +28,7 @@ $ python face_detection.py
 ```
 
 <p align="center">
-  <img src="/demo.png" height="400" width="800">
+  <img src="/demo.png" height="450" width="700">
  </p>
 
 In order to exit, press "q".
