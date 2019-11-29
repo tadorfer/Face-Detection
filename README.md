@@ -1,6 +1,6 @@
 # Face Detection
 
-This is a script for real-time face detection with a default webcam using the pre-trained Haar frontal face cascade algorithm.
+This is a script for real-time face detection with a default webcam using the pre-trained Haar frontal face cascade algorithm proposed by [Viola & Jones, 2001] (https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf).
 
 The script is compatible with both Python 2 and Python 3 versions.
 
@@ -26,5 +26,9 @@ $ conda install -c conda-forge opencv
 ```
 $ python face_detection.py
 ```
+
+<p align="center">
+  <img src="/demo.png" height="400" width="800">
+ </p>
 
 In order to exit, press "q".
