@@ -12,6 +12,8 @@ $ git clone https://github.com/tadorfer/face-detection.git
 
 ## Installation
 
+OpenCV - a real-time computer vision package
+
 ```
 $ conda install -c conda-forge opencv
 ```
